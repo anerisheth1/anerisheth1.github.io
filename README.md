@@ -1,4 +1,4 @@
-# anerisheth1.github.io
+# Aneri Sheth Personal Website
  
  This is the code for my personal website. Feel free to reach out :)
  
